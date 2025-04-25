@@ -1,0 +1,38 @@
+*{
+  background:#F5E3B5
+}
+.c1{
+  background:#8D424D
+}
+.c2{
+  background:#F5E3B5
+}
+.r{
+  position:absolute;
+  border-radius:0 0 100px 100px
+}
+.p{
+  width:120;
+  height:210;
+  top:0;
+  left:140
+}
+.p3{
+  width:60;
+  height:120;
+  top:0;
+  left:170
+}
+.c{
+  position:absolute;
+  border-radius:50%;
+  width:30;
+  height:30;
+  left:185
+}
+.p2{
+  top:75
+}
+.p4{
+  top:135
+}
