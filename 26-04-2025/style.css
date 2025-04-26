@@ -1,0 +1,40 @@
+*{
+  background:#282828
+}
+div{
+  position:absolute
+}
+.c{
+  width:120;
+  height:120;
+  border-radius:50%;
+  top:90
+}
+.oc{
+  background:#EA3323
+}
+.p{
+  left:100
+}
+.p1{
+  right:100
+}
+.cl{
+  background:#282828
+}
+.ic{
+  left:140
+}
+.ic1{
+  background:#EA3323;
+  width:60;
+  height:60;
+  border-radius:50%;
+  left:170;
+  top:119
+}
+.r{
+  width:20;
+  height:300;
+  left:190
+}
